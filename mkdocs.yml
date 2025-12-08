@@ -1,0 +1,60 @@
+# SPDX-FileCopyrightText: 2025 comodelling.org contributors: https://github.com/comodelling/comodelling-website/CONTRIBUTORS.md
+#
+# SPDX-License-Identifier: CC-BY-SA-4.0
+
+site_name: Comodelling
+site_url: https://commodelling.org
+theme:
+  name: material
+  palette:
+    # Light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: darkgreen
+      accent: darkgreen
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    # Dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: darkgreen
+      accent: darkgreen
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  version: latest
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.indexes
+    - navigation.tracking
+    - navigation.indexes
+    - navigation.instant
+    - navigation.top
+    - navigation.expand
+    - navigation.footer
+
+nav:
+  - Home: index.md
+  - Wiki:
+    - Wiki: wiki/index.md
+    - Co-modelling:
+      - Co-modelling: wiki/co-modelling/index.md
+    - Practices:
+      - Practices: wiki/practices/index.md
+    - Modelling toolkit:
+      - Modelling space: wiki/modelling_space.md
+      - Knowledge graphs: wiki/knowledge_graphs.md
+      - Polls: wiki/polls.md
+    - Communities: wiki/communities.md
+  - Projects: projects.md
+  - Together: together.md
+
+markdown_extensions:
+  - toc:
+      permalink: true
+  - footnotes
+  - admonition
+
+copyright: Copyright © Contributors to comodelling.org website — licensed under CC BY-SA 4.0
