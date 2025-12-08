@@ -3,7 +3,7 @@
 # SPDX-License-Identifier: CC-BY-SA-4.0
 
 site_name: Comodelling
-site_url: https://commodelling.org
+site_url: https://comodelling.org
 theme:
   name: material
   palette:
