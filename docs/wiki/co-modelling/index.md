@@ -72,8 +72,6 @@ We attempt some definitions below:
 
 - Commons-based builds on the idea of community-driven, but with an added layer infused with the values and ideas revolving around the commons
 
-This requires tools, platforms, rules, processes to enable ... 
-
 Another possible sense of co-modelling, though maybe less primordial than the first one, is to consider various objects together, inviting us to think through the co-dependencies or evolutions between different objects of studies.
 
 ## An alternative paradigm
