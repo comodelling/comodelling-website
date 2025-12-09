@@ -6,20 +6,22 @@ site_name: Comodelling
 site_url: https://comodelling.org
 theme:
   name: material
+  logo: assets/logo_comodelling_white_32.png
+  favicon: assets/logo_comodelling_grey_32.png
   palette:
     # Light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      primary: darkgreen
-      accent: darkgreen
+      primary: indigo
+      accent: indigo
       toggle:
         icon: material/brightness-7
         name: Switch to dark mode
     # Dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
-      primary: darkgreen
-      accent: darkgreen
+      primary: indigo
+      accent: indigo
       toggle:
         icon: material/brightness-4
         name: Switch to light mode
