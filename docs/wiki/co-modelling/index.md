@@ -76,9 +76,7 @@ Another possible sense of co-modelling, though maybe less primordial than the fi
 
 ## An alternative paradigm
 
-The idea of co-modelling provides an alternative paradigm to that of social media, of market prediction platforms and other business-oriented crowdsourcing. Sure, those might be effective at optimising certain specific things by using users' input, but they benefit only a few while alienating many.
-Instead of enabling us to work together on the issues that affect us, these platforms mostly just keep throwing oil at the giant artificial fire which the modern Internet has become.
-
+The idea of co-modelling provides an alternative paradigm to that of social media, of market prediction platforms and other business-oriented crowdsourcing. 
 We believe that there are other ways forward, leveraging our collective modelling power in ways that empower people, not allienate them.
 Co-modelling gives communities control and agency, by letting them decide and agree on the questions, purposes, conditions, criteria, parameters, or rules of their models and processes.
 The stakes are high when it comes to shaping the knowledge systems that structure information at different scales.
