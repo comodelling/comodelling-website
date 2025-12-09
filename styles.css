@@ -26,3 +26,32 @@ h1 { text-align:center; }
 p { margin:0 0 1rem; text-align:left; }
 a { color: var(--accent); text-decoration:none; }
 ul {margin-top: 5px}
+
+.diagram-aside {
+  /* Default: float on wide viewports */
+  float: right;
+  width: min(40vw, 320px);
+  margin: 0 0 1.5rem 1.5rem;
+}
+
+.diagram-aside img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+/* The MkDocs theme sets `figure` to `display: flow-root` which can
+   prevent floating. Increase selector specificity to override it. */
+.md-typeset figure.diagram-aside {
+  /* Block formatting ensures predictable layout while allowing float */
+  display: block !important;
+  float: right !important;
+}
+
+@media (max-width: 800px) {
+  .diagram-aside {
+    float: none;
+    width: 100%;
+    margin: 0 0 1.5rem;
+  }
+}

@@ -58,11 +58,12 @@ Here we suggest several steps, though this template might differ among projects:
 
 ## The "co" in co-modelling
 
+<figure class="diagram-aside">
+  <img src="../../assets/co_diagram.svg" alt="Set diagram of collaborative/community/commons" />
+</figure>
+
 The "co" in "co-modelling" is flexible, and can suggest for example that the co-modelling process is collaborative, for the community, community-driven, or commons-based.
 
-<p style="float: right; width: 260px; margin-left: 20px;">
-  <img src="../../assets/co_diagram.svg" alt="Alt text" style="width:100%;">
-</p>
 
 We attempt some definitions below:
 

@@ -4,6 +4,8 @@
 
 site_name: Comodelling
 site_url: https://comodelling.org
+extra_css:
+  - assets/styles.css
 theme:
   name: material
   logo: assets/logo_comodelling_white_32.png
